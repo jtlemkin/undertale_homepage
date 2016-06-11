@@ -1,0 +1,16 @@
+html {
+  font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFFFF;
+  background-color: #000000;
+}
+
+iframe {
+  padding: 18px;
+}
+
+.buttons {
+  width: 658px;
+  display: flex;
+  justify-content: space-between;
+}
